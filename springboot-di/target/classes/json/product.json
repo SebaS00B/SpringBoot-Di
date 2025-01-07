@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "PlayStation 5",
+        "price": 1000
+    },
+    {
+        "id": 2,
+        "name": "Cocina de induccion",
+        "price": 1277
+    },
+    {
+        "id": 3,
+        "name": "Teclado Logitech",
+        "price": 151
+    },
+    {
+        "id": 4,
+        "name": "Chaqueta Pluma negra",
+        "price": 151
+    }
+]
